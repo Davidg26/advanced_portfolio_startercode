@@ -1,9 +1,12 @@
 /* Nav Bar CSS */
-
+h1 {
+    font-size:20px;
+    color:blue;
+}
 
 /* Header CSS */
 
-
+.dropdown {color:red;}
 
 /* Section CSS */
 
